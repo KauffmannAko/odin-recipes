@@ -4,6 +4,7 @@
     background-color: beige;
     font-family: "Courier New", Courier, monospace;
     font-size: medium;
+   
 }
 a img {
 height:auto;
@@ -21,4 +22,7 @@ h1 {
 h1,h2,h3 
 {
     color: rgb(139, 165, 45);
+}
+.center{
+padding-left: 9%;
 }
